@@ -3,9 +3,13 @@ CrudDemo
 
 Acronym for Create, Retrieve, Update, Delete. It is a term commonly used to describe basic database functions.
 
-You can use this demo application in every CRUD scanario . you only need to create your 
+You can use this demo application in every CRUD scanario . you only need to :
 
-import .sql file on your server and also api.php
+1: Create Database "crud"
+
+2: Import crud.sql file
+
+3: please api.php on server and also update server path in CrudTest/Http.m 
 
 and use the basic CRUD functionlity.
 
